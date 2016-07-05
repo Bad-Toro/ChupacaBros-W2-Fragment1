@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+//A comment
         BlankFragment bF = new BlankFragment();
 
         setContentView(R.layout.activity_main);
